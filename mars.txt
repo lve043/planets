@@ -1,4 +1,4 @@
 Cold and dry but everything is my favourite colour
 The two moons might be a problem.
 But the lack of humidity will be nice.
-I am adding another line
+This line is different from the one in home dir
